@@ -1,0 +1,1 @@
+Permite comparar dos servicios webs descritos en formato WSDL
